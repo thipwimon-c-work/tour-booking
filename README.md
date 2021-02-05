@@ -71,7 +71,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Good commit 
 type: subject
+
 body (optional)
+
 footer (optional)
 
 [https://dev.to/chrissiemhrk/git-commit-message-5e21?fbclid=IwAR09SO7inW_nNbbFZ1JVOz0eE6-Tn4Wb5Pkj0HtHmGvKf9GCrof1xSYeOGg]
